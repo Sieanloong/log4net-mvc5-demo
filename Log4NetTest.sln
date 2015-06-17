@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net.Library", "Log4Net.Library\Log4Net.Library.csproj", "{51187927-55DF-4380-B8FA-FB4AF0A818AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingApp.Web", "Log4Net.Web\LoggingApp.Web.csproj", "{09B800C0-5319-4BE2-8BB8-C099A10DA56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net.Console", "Log4Net.Console\Log4Net.Console.csproj", "{AB1C5512-6BBA-4925-BF1E-314740F61006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51187927-55DF-4380-B8FA-FB4AF0A818AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51187927-55DF-4380-B8FA-FB4AF0A818AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51187927-55DF-4380-B8FA-FB4AF0A818AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51187927-55DF-4380-B8FA-FB4AF0A818AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B800C0-5319-4BE2-8BB8-C099A10DA56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B800C0-5319-4BE2-8BB8-C099A10DA56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B800C0-5319-4BE2-8BB8-C099A10DA56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B800C0-5319-4BE2-8BB8-C099A10DA56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1C5512-6BBA-4925-BF1E-314740F61006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1C5512-6BBA-4925-BF1E-314740F61006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1C5512-6BBA-4925-BF1E-314740F61006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1C5512-6BBA-4925-BF1E-314740F61006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
