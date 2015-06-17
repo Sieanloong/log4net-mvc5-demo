@@ -1,0 +1,7 @@
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\bin\Debug\Log4Net.Library.dll
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\bin\Debug\Log4Net.Library.pdb
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\bin\Debug\log4net.dll
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\bin\Debug\log4net.xml
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\obj\Debug\Log4Net.Library.csprojResolveAssemblyReference.cache
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\obj\Debug\Log4Net.Library.dll
+C:\Users\v-zabake\Documents\Visual Studio 2013\Projects\Log4NetTest\Log4Net.Library\obj\Debug\Log4Net.Library.pdb
